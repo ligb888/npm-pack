@@ -1,0 +1,16 @@
+{
+  "name": "npm-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pack": "node pack.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.2",
+    "request": "^2.88.0"
+  }
+}
